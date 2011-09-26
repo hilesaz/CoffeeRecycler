@@ -10,4 +10,7 @@ public class Recycler {
     {
         return 0;
     }
+    Recycler(String path)
+    {
+    }
 }
